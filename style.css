@@ -6,7 +6,6 @@ user-select: none;
 }
   
 body {
-  /* background: radial-gradient(#6b03fc,#ddd, #ccc);  */
   height: 100vh;
   widht: 100vw;
 }
@@ -14,7 +13,7 @@ body {
 .container {
   display: flex;
   justify-content: center;
-  background-image: url('romance.jpg');
+  background-image: url('assets/romance.jpg');
   background-repeat: no-repeat;
   background-size: 100% 100%;
   background-position: center center;
