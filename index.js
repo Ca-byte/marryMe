@@ -5,7 +5,7 @@ btnYes.addEventListener('click', goodChoice)
 
 function goodChoice(){
   alert('Yeahhh I knew it 💑')
-  alert('No choice Thais! 😂')
+  alert('No choice Thaís! 😂')
 }
 
 // function definitions
